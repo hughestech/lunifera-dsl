@@ -18,7 +18,6 @@
 		<groupId>org.lunifera.dsl</groupId>
 		<artifactId>org.lunifera.dsl.parent</artifactId>
 		<version>0.9.0</version>
-		<relativePath>../org.lunifera.dsl.parent/pom.xml</relativePath>
 	</parent>
 
 	<artifactId>org.lunifera.dsl.feature.common</artifactId>
