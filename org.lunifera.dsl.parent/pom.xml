@@ -38,7 +38,7 @@
 		<lunifera.build.p2.project.name>org.lunifera.dsl.p2</lunifera.build.p2.project.name>
 		<tychoExtrasVersion>1.0.0</tychoExtrasVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<xtext.version>2.7.3</xtext.version>
+		<xtext.version>2.10.0</xtext.version>
 		<lunifera.jacoco.include>org.lunifera.dsl.*</lunifera.jacoco.include>
 		<lunifera.build.platform.name>neon</lunifera.build.platform.name>
 		<lunifera.releng.version>0.20.1-SNAPSHOT</lunifera.releng.version>
@@ -179,7 +179,7 @@
 			<dependency>
 				<groupId>org.eclipse.xtext</groupId>
 				<artifactId>org.eclipse.xtext.ecore</artifactId>
-				<version>2.5.1</version>
+				<version>${xtext.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
